@@ -1,1 +1,1 @@
-# mongo-elasticsearch-connector
+# mongo-elastic-connector
